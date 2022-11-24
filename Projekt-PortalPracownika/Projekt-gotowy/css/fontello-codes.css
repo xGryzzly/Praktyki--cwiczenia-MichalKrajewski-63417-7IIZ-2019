@@ -1,0 +1,7 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-money:before { content: '\e801'; } /* '' */
+.icon-clock:before { content: '\e802'; } /* '' */
+.icon-phone:before { content: '\e803'; } /* '' */
+.icon-cog:before { content: '\e804'; } /* '' */
+.icon-doc-text-inv:before { content: '\f15c'; } /* '' */
